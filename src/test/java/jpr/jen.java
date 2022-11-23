@@ -1,4 +1,4 @@
-package jpro;
+package jpr;
 
 import org.testng.annotations.Test;
 
